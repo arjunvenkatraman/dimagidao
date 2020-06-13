@@ -1,2 +1,2 @@
-# dimagidao
-Mental Martial Arts
+# Dimagi Dao
+Mobile Mental Mixed Martial Arts
